@@ -1,0 +1,8 @@
+Update rust:
+rustup update
+
+Local Documentation:
+rustup doc
+
+Standard style Rust projects formatter tool:
+rustfmt
